@@ -4,6 +4,6 @@
 
 
 <a href="https://console.rapyuta.io/catalog?uo=1&amp;link=https%3A%2F%2Fraw.githubusercontent.com%2Fwiresurfer%2Frapyuta-demos%2Fmaster%2Frio%2Fpackage.json" target="_blank">
-    <img class="pkg-import-btn" src="https://storage.googleapis.com/artifacts.rapyuta.io/images/import-package-button.svg" alt="Import Package" style="width: 248px; height: 40px;">
+    <img class="pkg-import-btn" src="https://storage.googleapis.com/artifacts.rapyuta.io/images/import-package-button.svg" alt="Import Package" style="width: 248px; height: 40px;" width="248px" height="40px">
 </a>
 
